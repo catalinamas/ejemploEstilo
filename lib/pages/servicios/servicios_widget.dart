@@ -355,7 +355,7 @@ class _ServiciosWidgetState extends State<ServiciosWidget> {
                                               safeSetState(() {});
                                             }
                                           },
-                                          text: 'Reservar',
+                                          text: 'Reservar modificado',
                                           options: FFButtonOptions(
                                             height: 40.0,
                                             padding:
