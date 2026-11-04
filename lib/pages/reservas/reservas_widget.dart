@@ -221,7 +221,7 @@ class _ReservasWidgetState extends State<ReservasWidget> {
                 onPressed: () async {
                   context.pushNamed(ReservasWidget.routeName);
                 },
-                text: 'ir a reservas',
+                text: 'ir a reservas (modificado)',
                 options: FFButtonOptions(
                   height: 40.0,
                   padding: EdgeInsetsDirectional.fromSTEB(16.0, 0.0, 16.0, 0.0),
